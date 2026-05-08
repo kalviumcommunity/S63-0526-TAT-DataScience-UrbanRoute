@@ -40,3 +40,8 @@ If you want to view the data analysis and model training steps:
 jupyter notebook
 ```
 *(Open `Step1_Data_Loading.ipynb` in your browser)*
+
+
+### Python Installmen
+
+Python and Anaconda were successfully installed and validated using terminal-based version checks to ensure proper configuration and accessibility. A dedicated Pull Request was created to provide verifiable proof of environment readiness and repository integration. The setup was further demonstrated through a concise screen-recorded walkthrough covering installation verification and environment validation. The submission also addresses collaborative development practices by emphasizing the use of consistent Conda environments, dependency management, and aligned Python versions to minimize cross-machine compatibility issues during the sprint.
