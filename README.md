@@ -90,4 +90,8 @@ Explain risks of skipping steps: chasing spurious correlations, optimizing irrel
 
 A data science repository tells a story: begin at the README to learn the problem, data sources, and workflow. Quickly map which files are exploratory notebooks, which are production scripts, and where data or model artifacts live. Note assumptions, data provenance, and whether analysis is finalized or exploratory—this focused reading prevents duplicated work and clarifies safe places to contribute.
 
+## Sprint Planning: Project Plan & MVP (brief)
+
+Design a 4-week project plan by defining the problem, selecting a dataset that directly supports the question, scoping a minimal end-to-end MVP (data ingest → validated model → simple app), and splitting work into weekly milestones. Prioritize a single, testable decision the MVP must enable, treat data gaps and ambiguous labels as primary risks, and reserve time for validation, deployment, and documentation.
+
 
