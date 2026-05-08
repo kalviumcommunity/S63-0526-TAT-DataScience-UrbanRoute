@@ -84,3 +84,10 @@ Explain risks of skipping steps: chasing spurious correlations, optimizing irrel
 - This milestone requires only changes to the README (no code changes). Commit the updated README to a branch and open a Pull Request for evaluation.
 - Record a ~2-minute screen-facing video walking through this README and verbally answering the scenario-based question. Include how you would reframe the analysis using the Question → Data → Insight framework.
 
+---
+
+## Learning Milestone: Reading & Interpreting a Repository
+
+A data science repository tells a story: begin at the README to learn the problem, data sources, and workflow. Quickly map which files are exploratory notebooks, which are production scripts, and where data or model artifacts live. Note assumptions, data provenance, and whether analysis is finalized or exploratory—this focused reading prevents duplicated work and clarifies safe places to contribute.
+
+
